@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="https://t3.ftcdn.net/jpg/01/13/51/46/360_F_113514647_jPbRbEX7ChilOsHENaG3MkKqUJvm4S1d.jpg" width="100%" height="300">
+<img src="https://t3.ftcdn.net/jpg/04/09/55/96/360_F_409559671_cHXNaf4AdtRhK81o9DyoZV1JyuWV92Yb.jpg" width="100%" height="300">
 
 <!--Night Owl image-->
 <div>
