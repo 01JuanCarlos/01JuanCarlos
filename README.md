@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="https://i.ibb.co/2vhhDHB/Imagen3.png" width="100%"  >
+<img src="https://i.postimg.cc/w9dfVvvW/Imagen3.png"  >
 <!--Night Owl image-->
 <div>
   <img align="right" width="20%" src="https://i.gifer.com/origin/ee/ee93dbc6d7115c71190ed0e5e16bfbd6_w200.gif">
