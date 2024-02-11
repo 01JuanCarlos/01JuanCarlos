@@ -1,13 +1,15 @@
+<!--Banner-->
+<img src="https://t3.ftcdn.net/jpg/01/13/51/46/360_F_113514647_jPbRbEX7ChilOsHENaG3MkKqUJvm4S1d.jpg" width="100%" height="300">
 
-<h1 align="center"><b>Welcome to the jungle</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="20%" src="https://i.gifer.com/origin/ee/ee93dbc6d7115c71190ed0e5e16bfbd6_w200.gif">
+</div>
 
-
-<br>
-
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
 
 	
