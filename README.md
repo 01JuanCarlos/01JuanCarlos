@@ -1,6 +1,5 @@
 <!--Banner-->
-<img src="https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-black-shading-red-shard-geometry-banner-background-shadingred-debrisred-glowgeometry-image_80184.jpg" width="100%" height="300">
-
+<img src="https://i.ibb.co/2vhhDHB/Imagen3.png" width="100%"  >
 <!--Night Owl image-->
 <div>
   <img align="right" width="20%" src="https://i.gifer.com/origin/ee/ee93dbc6d7115c71190ed0e5e16bfbd6_w200.gif">
