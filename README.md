@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="https://t3.ftcdn.net/jpg/04/09/55/96/360_F_409559671_cHXNaf4AdtRhK81o9DyoZV1JyuWV92Yb.jpg" width="100%" height="300">
+<img src="https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-black-shading-red-shard-geometry-banner-background-shadingred-debrisred-glowgeometry-image_80184.jpg" width="100%" height="300">
 
 <!--Night Owl image-->
 <div>
