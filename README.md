@@ -3,7 +3,6 @@
 	<h1 align="center" size="100px" >Hola, soy <a href="https://github.com/01JuanCarlos">Juan Carlos</a> 👋</h1>
   </ul>
 </div>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <h3>
