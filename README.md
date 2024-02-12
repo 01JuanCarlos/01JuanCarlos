@@ -64,7 +64,7 @@ Tecnico en computación e informática.
 <div align='left'>
 <a href="linkedin.com/in/juan-torres-miranda" >
 <img src="https://img.shields.io/badge/linkedin -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-	<a href="linkedin.com/in/juan-torres-miranda">linkedin.com/in/juan-torres-miranda</a>
+	<link href="linkedin.com/in/juan-torres-miranda">linkedin.com/in/juan-torres-miranda</link>
 </a>
 <br>
 
