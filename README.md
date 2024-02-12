@@ -9,7 +9,7 @@ Freelance full stack para web y Android
 </h3>
 
 <p>
-Soy tecnico en computación e informática.
+Tecnico en computación e informática.
 </p>
 
 
@@ -37,7 +37,7 @@ Soy tecnico en computación e informática.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01JuanCarlos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01JuanCarlos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 </div>
 
@@ -52,23 +52,19 @@ Soy tecnico en computación e informática.
 
 ## <b>Contactos: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+<div align='center'>
 
-<ul>
 
-<li>
 <a href="linkedin.com/in/juan-torres-miranda" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  JC_Dev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-<li>
 <a href="juancarlostorresmiranda96@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  JC_Dev-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+
 	
-</ul>
+
 </div>
 
 <br>
